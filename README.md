@@ -1,4 +1,3 @@
-# Financial-Planner
 # Financial-Budget-Planner
 Financial Budget Planner Web application is made to plan our daily budget by storing the budget and expense data at one place. It helps to control the flow of money
 ![Screenshot (325)](https://user-images.githubusercontent.com/76609079/194740466-eecef242-baa8-435b-845a-2515dde6797c.png)
